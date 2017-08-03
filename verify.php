@@ -1,7 +1,7 @@
 <?php
 $access_token = 'GlxpHTGJf86xMl2lPNrtpen2aFkfk7vP7TPAqBEW7dUXWhV4YQtXvk1F1+HDcJ9r1MtXHG5SqoxuWXz7nKq5jWCFNIo4bpnjccw9g4kr3O7EyL7hPNJCL+WcDSLtbAtaouxGFf6pcP5FnQpgjYhQgAdB04t89/1O/w1cDnyilFU=';
 
-$url = 'https://api.line.me/v1/oauth/verify';
+$url = 'https://protected-ravine-40993.herokuapp.com/';
 
 $headers = array('Authorization: Bearer ' . $access_token);
 
